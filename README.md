@@ -1,2 +1,2 @@
 my first readme
-this changes was added through my GitHub 
+this line was updated through my GitHub 
